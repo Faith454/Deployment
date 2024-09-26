@@ -1,0 +1,5 @@
+pandas2.1.4 
+numpy1.26.4
+matplotlib3.8.0
+scikit-learn1.2.2
+streamlit1.38.0
